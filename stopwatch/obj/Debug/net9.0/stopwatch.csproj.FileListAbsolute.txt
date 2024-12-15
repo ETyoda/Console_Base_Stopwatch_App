@@ -1,0 +1,57 @@
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\bin\Debug\net9.0\appsettings.json
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\bin\Debug\net9.0\stopwatch.staticwebassets.endpoints.json
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\bin\Debug\net9.0\stopwatch.exe
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\bin\Debug\net9.0\stopwatch.deps.json
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\bin\Debug\net9.0\stopwatch.runtimeconfig.json
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\bin\Debug\net9.0\stopwatch.dll
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\bin\Debug\net9.0\stopwatch.pdb
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\obj\Debug\net9.0\stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\obj\Debug\net9.0\stopwatch.AssemblyInfoInputs.cache
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\obj\Debug\net9.0\stopwatch.AssemblyInfo.cs
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\obj\Debug\net9.0\stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\obj\Debug\net9.0\stopwatch.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\obj\Debug\net9.0\stopwatch.sourcelink.json
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\obj\Debug\net9.0\scopedcss\bundle\stopwatch.styles.css
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\obj\Debug\net9.0\staticwebassets\msbuild.stopwatch.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\obj\Debug\net9.0\staticwebassets\msbuild.stopwatch.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\obj\Debug\net9.0\staticwebassets\msbuild.build.stopwatch.props
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.stopwatch.props
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.stopwatch.props
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\obj\Debug\net9.0\stopwatch.dll
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\obj\Debug\net9.0\refint\stopwatch.dll
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\obj\Debug\net9.0\stopwatch.pdb
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\obj\Debug\net9.0\stopwatch.genruntimeconfig.cache
+C:\Users\Yodahe G\OneDrive\Desktop\csharp\stopwatch\obj\Debug\net9.0\ref\stopwatch.dll
+C:\files\Console-Based-Stopwatch-App\stopwatch\bin\Debug\net9.0\appsettings.Development.json
+C:\files\Console-Based-Stopwatch-App\stopwatch\bin\Debug\net9.0\appsettings.json
+C:\files\Console-Based-Stopwatch-App\stopwatch\bin\Debug\net9.0\stopwatch.staticwebassets.endpoints.json
+C:\files\Console-Based-Stopwatch-App\stopwatch\bin\Debug\net9.0\stopwatch.exe
+C:\files\Console-Based-Stopwatch-App\stopwatch\bin\Debug\net9.0\stopwatch.deps.json
+C:\files\Console-Based-Stopwatch-App\stopwatch\bin\Debug\net9.0\stopwatch.runtimeconfig.json
+C:\files\Console-Based-Stopwatch-App\stopwatch\bin\Debug\net9.0\stopwatch.dll
+C:\files\Console-Based-Stopwatch-App\stopwatch\bin\Debug\net9.0\stopwatch.pdb
+C:\files\Console-Based-Stopwatch-App\stopwatch\obj\Debug\net9.0\stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\files\Console-Based-Stopwatch-App\stopwatch\obj\Debug\net9.0\stopwatch.AssemblyInfoInputs.cache
+C:\files\Console-Based-Stopwatch-App\stopwatch\obj\Debug\net9.0\stopwatch.AssemblyInfo.cs
+C:\files\Console-Based-Stopwatch-App\stopwatch\obj\Debug\net9.0\stopwatch.csproj.CoreCompileInputs.cache
+C:\files\Console-Based-Stopwatch-App\stopwatch\obj\Debug\net9.0\stopwatch.MvcApplicationPartsAssemblyInfo.cache
+C:\files\Console-Based-Stopwatch-App\stopwatch\obj\Debug\net9.0\scopedcss\bundle\stopwatch.styles.css
+C:\files\Console-Based-Stopwatch-App\stopwatch\obj\Debug\net9.0\staticwebassets.build.json
+C:\files\Console-Based-Stopwatch-App\stopwatch\obj\Debug\net9.0\staticwebassets.development.json
+C:\files\Console-Based-Stopwatch-App\stopwatch\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\files\Console-Based-Stopwatch-App\stopwatch\obj\Debug\net9.0\staticwebassets\msbuild.stopwatch.Microsoft.AspNetCore.StaticWebAssets.props
+C:\files\Console-Based-Stopwatch-App\stopwatch\obj\Debug\net9.0\staticwebassets\msbuild.stopwatch.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\files\Console-Based-Stopwatch-App\stopwatch\obj\Debug\net9.0\staticwebassets\msbuild.build.stopwatch.props
+C:\files\Console-Based-Stopwatch-App\stopwatch\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.stopwatch.props
+C:\files\Console-Based-Stopwatch-App\stopwatch\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.stopwatch.props
+C:\files\Console-Based-Stopwatch-App\stopwatch\obj\Debug\net9.0\staticwebassets.pack.json
+C:\files\Console-Based-Stopwatch-App\stopwatch\obj\Debug\net9.0\stopwatch.dll
+C:\files\Console-Based-Stopwatch-App\stopwatch\obj\Debug\net9.0\refint\stopwatch.dll
+C:\files\Console-Based-Stopwatch-App\stopwatch\obj\Debug\net9.0\stopwatch.pdb
+C:\files\Console-Based-Stopwatch-App\stopwatch\obj\Debug\net9.0\stopwatch.genruntimeconfig.cache
+C:\files\Console-Based-Stopwatch-App\stopwatch\obj\Debug\net9.0\ref\stopwatch.dll
