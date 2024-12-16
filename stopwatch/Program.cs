@@ -8,20 +8,20 @@ namespace StopwatchApp
 
     public class Stopwatch
     {
-        // Fields
-        private int _timeElapsed; // Time in milliseconds
+        
+        private int _timeElapsed; 
         private bool _isRunning;
 
-        // Events
+        
         public event StopwatchEventHandler OnStarted;
         public event StopwatchEventHandler OnStopped;
         public event StopwatchEventHandler OnReset;
 
-        // Properties
+    
         public int TimeElapsed => _timeElapsed;
         public bool IsRunning => _isRunning;
 
-        // Methods
+        
         public void Start()
         {
             if (_isRunning)
@@ -57,7 +57,7 @@ namespace StopwatchApp
         {
             if (_isRunning)
             {
-                _timeElapsed += 100; // Increment by 100 milliseconds
+                _timeElapsed += 100; 
             }
         }
 
@@ -80,12 +80,12 @@ namespace StopwatchApp
         {
             Stopwatch stopwatch = new Stopwatch();
 
-            // Subscribe to events
+            
             stopwatch.OnStarted += message => Console.WriteLine(message);
             stopwatch.OnStopped += message => Console.WriteLine(message);
             stopwatch.OnReset += message => Console.WriteLine(message);
 
-            // Console UI loop
+            
             bool exit = false;
             while (!exit)
             {
@@ -122,7 +122,7 @@ namespace StopwatchApp
                     }
                 }
 
-                // Simulate ticking every 100 milliseconds
+                
                 Thread.Sleep(100);
                 stopwatch.Tick();
             }
